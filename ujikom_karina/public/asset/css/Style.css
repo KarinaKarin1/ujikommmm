@@ -1,0 +1,19 @@
+.jumbotron {
+  background-color: rgba(136, 105, 5, 0.753);
+  padding-top: 1rem;
+  margin-top: 3rem;
+}
+
+section {
+  padding: 5rem;
+  padding-bottom: 1rem;
+}
+#project {
+  background-color: rgba(136, 105, 5, 0.753);
+}
+#Contact {
+  background-color: #fff;
+}
+footer {
+  background-color: rgba(0, 128, 53, 0.445) ;
+}
